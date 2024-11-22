@@ -6,4 +6,4 @@ Disclaimer: the paper is still currently in the review process and that none of 
 
 The webpage is associated with the paper (full paper title and list of authors).
 
-![This is a placeholder for the picture of the index](images/Screenshot 2024-11-22 at 11.44.42-01.png)
+[![](images/Screenshot 2024-11-22 at 11.44.42.png)](This is a placeholder for the index picture)
